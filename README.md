@@ -19,6 +19,7 @@ University Health Care (U Health Care) is a comprehensive health management syst
 - **Pros**: Cost-effective and customizable
 - **Cons**: May suffer from security issues, limited support, and integration challenges
 
+
 ### Identified Gaps
 - Many students face difficulties obtaining proper medical excuse certificates while some misuse the system by submitting fraudulent ones
 - There is a lack of specialized systems dedicated to university healthcare management
